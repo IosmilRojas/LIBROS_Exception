@@ -32,5 +32,5 @@ Controla el menú interactivo para agregar, buscar y mostrar libros, gestionando
 | 2  |CAMARENA CHAVEZ CRISTIAN  |
 | 3  | POMACHAGUA YAPIAS BRYAN  |
 | 4  | DIAZ DAMIAN LUIS         |
-
+| 5  | ITURRIZAGA CAMPEAN GAURY |
 
