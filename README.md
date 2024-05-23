@@ -30,3 +30,7 @@ Controla el menú interactivo para agregar, buscar y mostrar libros, gestionando
 |----|--------------------------|
 | 1  | ROJAS ESCOBAR IOSMIL     |
 | 2  |CAMARENA CHAVEZ CRISTIAN  |
+| 3  | POMACHAGUA YAPIAS BRYAN  |
+| 4  | DIAZ DAMIAN LUIS         |
+
+
